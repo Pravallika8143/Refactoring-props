@@ -3,7 +3,6 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
-
 .Recipes-list li{
     width: 250px;
     padding: 20px;
