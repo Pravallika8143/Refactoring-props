@@ -1,5 +1,5 @@
 import React from 'react'
-import Recipes from './Recipes'
+import Recipes from './Recipes';
 
 function App() {
   return (
