@@ -1,0 +1,15 @@
+.Recipes-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.Recipes-list li{
+    width: 250px;
+    padding: 20px;
+    list-style: none;
+    text-align: center;
+    background-color: white;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
