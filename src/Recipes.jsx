@@ -1,6 +1,6 @@
 import React from 'react'
-import './Recipe.css'
-import Recipe from './Recipe'
+import './Recipe.css';
+import Recipe from './Recipe';
 
 function Recipes() {
     var[recipes,setRecipes] = React.useState([])
